@@ -32,5 +32,3 @@ To build an intelligent agent that analyzes inventory data and automatically gen
 - **Groq / OpenAI** – LLM (Large Language Model)
 
 ---
-
-## 🚀 Installation
